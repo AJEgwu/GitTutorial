@@ -9,7 +9,7 @@
 
 // Easy-to-change constants
 const std::string NAME  = "Jessica";  // <-- Change this for your name
-const std::string COLOR = MAGENTA;     // <-- Change this to BLUE, GREEN, etc. from colors.h
+const std::string COLOR = BLUE;     // <-- Change this to BLUE, GREEN, etc. from colors.h
 
 int main() {
     std::cout << COLOR << "Hello " << NAME << "!" << RESET << std::endl;
